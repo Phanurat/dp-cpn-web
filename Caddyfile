@@ -1,0 +1,3 @@
+cnp-blockchain-energyplus.duckdns.org {
+  reverse_proxy nodejs:3000
+}
